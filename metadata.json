@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Al-Alim: Islamic Scholar AI",
+  "description": "A comprehensive Islamic AI assistant offering authentic scholarly answers, media analysis, and real-time conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
